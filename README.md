@@ -50,14 +50,14 @@ workflows.
 Built a real-time manufacturing defect detection system with YOLO, Ray,
 LiveKit, and Databricks at sub-second latency.
 
-### [TrueAgent](https://github.com/FDS-Dark/2024-2025-trueprep-innovation-lab-true-agent)
+### [TrueAgent](https://github.com/FDS-Dark/2024-2025-trueprep-innovation-lab-true-agent) — Honorable Mention
 
 Built with a team to support multimodal tax-document analysis, semantic search
 over the U.S. Tax Code, and agent-driven guidance. The codebase includes
 FastAPI services, PostgreSQL/pgvector search, Gemini PDF processing, and
 asynchronous S3 integrations.
 
-### [BenMed](https://github.com/FDS-Dark/hack-4-health-2026-mriah-carey)
+### [BenMed](https://github.com/FDS-Dark/hack-4-health-2026-mriah-carey) — 3rd Place
 
 Built a medical-report simplification pipeline with citation retrieval and
 seven specialized safety validators. The implementation includes parallel
